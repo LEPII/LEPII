@@ -2,7 +2,7 @@
 #### Full Stack Developer
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEPII&theme=prussian=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEPII&theme=prussian_icons=true)
 
 Hello there, I'm Luis! I graduated from Wyncode Academy as a full stack web developer in Miami. I have a fondness for front-end design and development but also work well in back-end. I'm currently learning languages and frameworks like React and Express, as well as work in Wordpress. I'm a dedicated team player, self motivated, and I have a passion for learning.
 
