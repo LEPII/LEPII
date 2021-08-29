@@ -10,7 +10,12 @@ Hello there, I'm Luis! I graduated from Wyncode Academy as a full stack web deve
 
 Skills: HTML / CSS / Javascript / React / Express / MySQL / NoSQL / MongoDB / Version Control
 
-- 🌱 I’m currently learning React, React Native, Prisma, AWS 
+## Skills and Experience
+- ⚛️ React
+- 🖥️ HTML, CSS, JS
+- 👨‍💻 NoSQL, MySQL, MongoDB, Express
+
+- 🌱 I’m currently learning React Native, Prisma, AWS 
 - 📫 How to reach me: lperezdev843@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LEPII)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luis-perez-b72069137//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://luperez.dev/)  
