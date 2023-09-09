@@ -1,4 +1,5 @@
-# Hi there 👋, Luis Perez
+# Hi there 👋
+
 ## Full Stack Developer
 
 Hello there, I'm Luis! I graduated from Wyncode Academy as a full stack web developer in Miami. I have a fondness for front-end design and development but also work well in back-end. I'm currently learning languages and frameworks like React and Express, as well as work in Wordpress. I'm a dedicated team player, self motivated, and I have a passion for learning! 
