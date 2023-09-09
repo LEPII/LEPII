@@ -8,11 +8,11 @@ Hello there, I'm Luis! I graduated from Wyncode Academy as a full stack web deve
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luis-perez-b72069137/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-seven-brown-69.vercel.app/)  
 
 #### Skills and Experience
-- ⚛️ React
+- ⚛️ React, Sass
 - 🖥️ HTML, CSS, JS
 - 👨‍💻 NoSQL, MySQL, MongoDB, Express
 
-- 🌱 I’m currently learning React Native, Typescript, and Firebase 
+- 🌱 I’m currently learning React Native, Typescript, and Shopify Development  
 - 📫 How to reach me: lperezdev843@gmail.com 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LEPII&show_icons=true)  
