@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Front End Stack Developer
+## Front End Software Developer
 
 💻 Hello there, I'm Luis! I graduated from Wyncode Academy as a Front End Software Developer in the Miami/Fort-Lauderdale EW. I have a fondness for front-end design and development. I'm currently learning languages and frameworks like React and Express, as well as work in Wordpress. I'm a dedicated team player, self motivated, and I have a passion for learning! 
 
