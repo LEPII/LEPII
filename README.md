@@ -10,11 +10,9 @@
 
 ### Let's Connect! 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/luis-perez-b72069137/]
-![linkedin 1](https://github.com/LEPII/LEPII/assets/53446311/0a757c3c-265a-4527-b5fc-5fa2142cb396)[(https://www.linkedin.com/in/YOURLINKEDINPROFILE)](https://www.linkedin.com/in/lperezdev/)
+![linkedin 1](https://github.com/LEPII/LEPII/assets/53446311/0a757c3c-265a-4527-b5fc-5fa2142cb396)([https://www.linkedin.com/in/luis-perez-b72069137/]
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-seven-brown-69.vercel.app/)  
 
 #### Skills and Experience
 
