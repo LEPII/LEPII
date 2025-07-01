@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer 
 
-💻 I’m a results-driven software developer with a passion for crafting clean, efficient, and scalable code. 
+💻 I’m a results-driven software developer with a passion for crafting clean, efficient and scalable code. 
 
 🌱 Currently deep diving in learning **MongoDB** and diving into **Typescript** and **AWS** to further expand my development toolkit. 
 
